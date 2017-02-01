@@ -71,7 +71,7 @@ body {
     padding: 0;
     font-family: "Roboto Regular", "Arial", sans-serif;    
     font-size: 14px;
-    color: #ffffff;    
+    color: #fff;    
     background-color: #000000;
 }
 
@@ -96,7 +96,7 @@ body {
 .main-header {
     min-height: 120px;
     margin-bottom: 275px;
-    color: #ffffff;
+    color: #fff;
 }
 
 .main-header__navigation {
@@ -134,7 +134,7 @@ body {
 .main-header__navigation-menu a {
     display: block;
     margin: 30px 15px;
-    color: #ffffff;
+    color: #fff;
     text-decoration: none;
     border-bottom: 2px solid rgba(255, 255, 255, 0.4);
 }
@@ -144,7 +144,7 @@ body {
     padding: 10px 15px;
     color: #000000;
     border-radius: 25px;
-    background-color: #ffffff;
+    background-color: #fff;
 }
 
 .main-header__navigation-menu a:active {
